@@ -1,0 +1,14 @@
+.dce-button {
+    border: 1px solid var(--dce-bg-primary);
+    background: var(--dce-bg-secordary);
+    border-radius: 6px;
+    height: 45px;
+    width: 150px;
+}
+
+.dce-button p {
+    color: var(--dce-font-secordary);
+    font-weight: 700;
+    padding: 13px 16px;
+    text-align: center;
+}

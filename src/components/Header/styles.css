@@ -1,0 +1,27 @@
+.dce-navbar {
+    width: 100%;
+    height: 80px;
+    background: var(--dce-bg-secordary);
+    color: var(--dce-font-secordary)
+}
+
+.dce-font-navbar {
+    padding: 28px 115px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.dce-link-navbar {
+    padding: 4px;
+    display: flex;
+}
+
+.dce-link-navbar p {
+    margin-right: 15px;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.menu-active {
+    font-weight: 700;
+}
